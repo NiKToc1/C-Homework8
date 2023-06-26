@@ -1,0 +1,15 @@
+D:\gb\C#Homework4\С#-Homework8\task 54\bin\Debug\net6.0\task 54.exe
+D:\gb\C#Homework4\С#-Homework8\task 54\bin\Debug\net6.0\task 54.deps.json
+D:\gb\C#Homework4\С#-Homework8\task 54\bin\Debug\net6.0\task 54.runtimeconfig.json
+D:\gb\C#Homework4\С#-Homework8\task 54\bin\Debug\net6.0\task 54.dll
+D:\gb\C#Homework4\С#-Homework8\task 54\bin\Debug\net6.0\task 54.pdb
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.csproj.AssemblyReference.cache
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.AssemblyInfoInputs.cache
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.AssemblyInfo.cs
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.csproj.CoreCompileInputs.cache
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.dll
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\refint\task 54.dll
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.pdb
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\task 54.genruntimeconfig.cache
+D:\gb\C#Homework4\С#-Homework8\task 54\obj\Debug\net6.0\ref\task 54.dll
