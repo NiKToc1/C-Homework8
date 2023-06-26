@@ -27,7 +27,7 @@ int StringSum (int[,] matrix, int i)
 }
 
 Console.Clear();
-Console.Write("Введите размеры массива: ");
+Console.Write("Введите размеры матрицы: ");
 int[] size = Console.ReadLine()!.Split().Select(x => int.Parse(x)).ToArray();
 int[,] matrix = new int[size[0], size[1]];
 InputMatrix(matrix);
